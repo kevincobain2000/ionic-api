@@ -1,6 +1,18 @@
 {
-    "blogs":[
-        "awesometattooblog",
-        "your-body-is-a-canvas"
+    "featured":[
+        {
+            "blog":"lsleofskye",
+            "title":"landscapes",
+            "subtitle":"Bonus feature",
+            "img":"starry.jpg",
+            "featured":true
+        },
+        {
+            "blog":"lsleofskye",
+            "title":"landscapes",
+            "subtitle":"Bonus feature",
+            "img":"starry.jpg",
+            "featured":true
+        }
     ]
 }
