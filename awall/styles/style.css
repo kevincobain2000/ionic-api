@@ -1,9 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
 @import url(https://fonts.googleapis.com/css?family=Alegreya:400,700italic);
-
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 .font-dropid-serif{
   font-family: 'Droid Serif', serif;
 }
 .font-alegreya{
   font-family: 'Alegreya', serif;
+}
+
+.font-montserrat{
+  font-family: 'Montserrat', sans-serif;
 }
